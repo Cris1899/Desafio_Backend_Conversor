@@ -50,10 +50,3 @@ Principalmente se desarrollo dentro del IDE de _Apache Neatbeans_, empleando el 
 :heavy_check_mark: `Funcionalidad 3:` Escoger a que tipo de moneda desea convertir.
 
 :heavy_check_mark: `Funcionalidad 4:` Presionar el boton CONVERTIR y hacer la conversion a la moneda.
-
-## Agradecimientos
-
-- **ONE – Oracle Next Education**
-- [Alura](https://www.aluracursos.com/)
-- Instructores de Alura Latam que comparten todos los conocimientos adquiridos con los demas, que nos son de mucha ayuda para nuestro aprendizaje y oportunidades laborales.  
-

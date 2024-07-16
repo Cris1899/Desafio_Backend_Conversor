@@ -257,7 +257,6 @@ public void convertir(){
         }
         //</editor-fold>
         //</editor-fold>
-
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
@@ -265,8 +264,6 @@ public void convertir(){
             }
         });
     }
-
-    // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton CONVERTIR;
     private javax.swing.JTextField TFMonto;
     private javax.swing.JComboBox<String> cboA;
