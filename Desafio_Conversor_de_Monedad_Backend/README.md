@@ -1,10 +1,5 @@
 # Challenge Backend ONE-ORACLE NEXT EDUCATION G6: App Conversor de Monedas
 Desafios de encriptacion del programa de Oracle-Alura LATAM Segundo Challenge Backend G6 2024 - Desarrollo de una App en Java para la conversion de Divisas.  
-
-<p align="center" dir="auto">
-<img align="center" src="https://github.com/JoshVargasM3/PORTAFOLIO/blob/Main/GifImages/ConvertidorDeDivisasUso.png" width="100%">
-</p>
-
 ## Descripción
 > Challenge ONE Sprint 01: Crea tu propio conversor de moneda.
 
